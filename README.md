@@ -1,6 +1,4 @@
 # WCF Security Survival Guide Part 2 - Authorization example project
-Custom Authorization in WCF example project
-
 
 Example project that is running a WCF Service with TransportWithMessageCredential security mode using custom authentication and authorization.
 
