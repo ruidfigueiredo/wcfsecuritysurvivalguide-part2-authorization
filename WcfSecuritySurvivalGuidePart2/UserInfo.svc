@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Service="WCFSecuritySurvivalGuidePart2.Services.UserInformationService" Language="C#"%>
