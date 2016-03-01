@@ -1,4 +1,4 @@
-# wcfsecuritysurvivalguide-part2-authorization
+# WCF Security Survival Guide Part 2 - Authorization example project
 Custom Authorization in WCF example project
 
 
