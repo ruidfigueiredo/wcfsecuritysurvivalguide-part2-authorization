@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSecuritySurvivalGuidePart2", "WcfSecuritySurvivalGuidePart2\WcfSecuritySurvivalGuidePart2.csproj", "{FB76C850-296B-4BAC-A4CA-DF5231B87F8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSecuritySurvivalGuidePart2.Clients", "..\WcfSecuritySurvivalGuidePart2.Clients\WcfSecuritySurvivalGuidePart2.Clients.csproj", "{F2F188FD-5636-4656-BA11-E1D94D2710A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfSecuritySurvivalGuidePart2.Clients", "WcfSecuritySurvivalGuidePart2.Clients\WcfSecuritySurvivalGuidePart2.Clients.csproj", "{F2F188FD-5636-4656-BA11-E1D94D2710A2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSecuritySurvivalGuidePart2.Services", "WCFSecuritySurvivalGuidePart2.Services\WCFSecuritySurvivalGuidePart2.Services.csproj", "{7DCD65C6-5DAC-4B2F-BFC8-E63557A77B9E}"
 EndProject
